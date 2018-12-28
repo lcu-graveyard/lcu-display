@@ -28,7 +28,7 @@
 		"@angular/platform-browser-dynamic": "~7.1.0",
 		"@angular/router": "~7.1.0",
 		"@beyerleinf/ngx-dnd": "^6.0.0-preview3",
-		"@fathym-forge/common": "0.0.17",
+		"@fathym-forge/common": "0.0.20",
 		"@lcu/api": "0.0.20",
 		"@lcu/apps": "0.0.20",
 		"@lcu/common": "0.0.20",
