@@ -1,5 +1,5 @@
 {
-	"name": "workspace",
+	"name": "@fathym-it/lcu-display",
 	"version": "0.0.0",
 	"scripts": {
 		"deploy": "npm version patch && npm run deploy:all",
